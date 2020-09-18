@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include <string.h>
+
 void numbnumber(void);
 int checknum();
-struct number
+
+struct specialcharacters
 {
     int fa, sum;
     char sumnum;
