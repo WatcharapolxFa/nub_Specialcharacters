@@ -20,7 +20,6 @@ int main()
     koko();
     printf("Input number: ");
     gets_s(nub.characters);
-
     nub.special = strlen(nub.characters);
     koko();
     printf(" OutPut \n ");
